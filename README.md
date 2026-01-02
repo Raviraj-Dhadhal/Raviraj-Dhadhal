@@ -122,8 +122,9 @@
   <br/>
   
   <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=raviraj-dhadhal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&ring_color=FF6B6B" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raviraj-dhadhal&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="49%"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raviraj-dhadhal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF)](https://github.com/raviraj-dhadhal)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raviraj-dhadhal&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://github.com/raviraj-dhadhal)
+
   
   <br/><br/>
   
@@ -133,8 +134,8 @@
   <br/><br/>
   
   <!-- Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviraj-dhadhal&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" width="38%"/>
-  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raviraj-dhadhal&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF)](https://github.com/raviraj-dhadhal)
+
   <!-- Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=raviraj-dhadhal&theme=radical&no-frame=true&no-bg=false&row=2&column=3&title=Stars,Commits,Repositories,Issues,PullRequest,Followers" alt="Trophies" width="59%"/>
 
@@ -170,18 +171,15 @@
   
   <br/>
   
-  <a href="https://github.com/Raviraj-Dhadhal/skilly">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviraj-dhadhal&repo=skilly&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" width="48%" />
-  </a>
-  <a href="https://github.com/Raviraj-Dhadhal/cs50python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviraj-dhadhal&repo=cs50python&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" width="48%" />
-  </a>
-  
-  <br/><br/>
-  
-  <a href="https://github.com/Raviraj-Dhadhal/absent-track">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviraj-dhadhal&repo=absent-track&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" width="48%" />
-  </a>
+<a href="https://github.com/Raviraj-Dhadhal/skilly">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviraj-dhadhal&repo=skilly&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" alt="Skilly" />
+</a>
+
+
+[![CS50 Python](https://github-readme-stats.vercel.app/api/pin/?username=raviraj-dhadhal&repo=cs50python&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF)](https://github.com/Raviraj-Dhadhal/cs50python)
+
+[![Absent Track](https://github-readme-stats.vercel.app/api/pin/?username=raviraj-dhadhal&repo=absent-track&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF)](https://github.com/Raviraj-Dhadhal/absent-track)
+
 
 </div>
 
