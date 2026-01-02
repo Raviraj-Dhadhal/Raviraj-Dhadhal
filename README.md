@@ -46,7 +46,7 @@
         </a>
       </td>
       <td align="center" width="200">
-        <a href="https://instagram.com/raviraj_dhadhal" target="_blank">
+        <a href="https://instagram.com/therandomdevil" target="_blank">
           <img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" alt="Instagram" width="80"/>
           <br/><br/>
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
@@ -55,7 +55,7 @@
     </tr>
     <tr>
       <td align="center" width="200">
-        <a href="mailto:ravirajdhadhal@gmail.com" target="_blank">
+        <a href="mailto:raviirajdhadhall@gmail.com" target="_blank">
           <img src="https://img.icons8.com/fluency/96/000000/gmail.png" alt="Email" width="80"/>
           <br/><br/>
           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
@@ -117,7 +117,8 @@
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=raviraj-dhadhal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=raviraj-dhadhal&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;icon_color=00D9FF&amp;text_color=FFFFFF" width="48%" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raviraj-dhadhal&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%"/>
   
   <br/><br/>
