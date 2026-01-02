@@ -1,27 +1,23 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=RAVIRAJ%20DHADHAL&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=55" width="100%"/>
 
 </div>
 
 <br/>
 
-<!-- Profile Section with Glitch Effect -->
 <div align="center">
   
   <img src="https://avatars.githubusercontent.com/u/201112918?v=4" alt="Raviraj Dhadhal" width="180" style="border-radius: 50%; border: 5px solid #FF6B6B; box-shadow: 0 0 40px rgba(255, 107, 107, 0.6), 0 0 80px rgba(78, 205, 196, 0.4);"/>
   
   <br/><br/>
   
-  <!-- Animated Typing -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;I+turn+coffee+%E2%98%95+into+code+%F0%9F%92%BB;Let's+build+something+amazing+together!" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-<!-- Quick Stats Banner -->
 <div align="center">
   
   <table>
@@ -44,7 +40,6 @@
 
 ---
 
-<!-- Social Media Section with Cards -->
 <div align="center">
   
   <br/>
@@ -57,7 +52,7 @@
     <tr>
       <td align="center" width="250">
         <a href="https://linkedin.com/in/raviraj-dhadhal" target="_blank">
-          <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" />
+          <img src="https://skillicons.dev/icons?i=linkedin" width="100" />
           <br/><br/>
           <b style="font-size: 18px;">LinkedIn</b>
           <br/><br/>
@@ -68,7 +63,7 @@
       </td>
       <td align="center" width="250">
         <a href="https://instagram.com/therandomdevil" target="_blank">
-          <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" />
+          <img src="https://skillicons.dev/icons?i=instagram" width="100" />
           <br/><br/>
           <b style="font-size: 18px;">Instagram</b>
           <br/><br/>
@@ -81,7 +76,7 @@
     <tr>
       <td align="center" width="250">
         <a href="mailto:raviirajdhadhall@gmail.com" target="_blank">
-          <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100" />
+          <img src="https://skillicons.dev/icons?i=gmail" width="100" />
           <br/><br/>
           <b style="font-size: 18px;">Email</b>
           <br/><br/>
@@ -92,7 +87,7 @@
       </td>
       <td align="center" width="250">
         <a href="https://leetcode.com/" target="_blank">
-          <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
+          <img src="https://skillicons.dev/icons?i=leetcode" width="100" />
           <br/><br/>
           <b style="font-size: 18px;">LeetCode</b>
           <br/><br/>
@@ -114,29 +109,23 @@
 
 <br/>
 
-<!-- GitHub Stats with Different Layout -->
 <div align="center">
   
   ## 📊 GITHUB ANALYTICS
   
   <br/>
   
-  <!-- Main Stats -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raviraj-dhadhal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF)](https://github.com/raviraj-dhadhal)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raviraj-dhadhal&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://github.com/raviraj-dhadhal)
+  <img src="https://github-readme-stats.vercel.app/api?username=raviraj-dhadhal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raviraj-dhadhal&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 
-  
   <br/><br/>
   
-  <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raviraj-dhadhal&custom_title=Contribution%20Graph&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="98%"/>
   
   <br/><br/>
   
-  <!-- Languages -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raviraj-dhadhal&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF)](https://github.com/raviraj-dhadhal)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviraj-dhadhal&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" />
 
-  <!-- Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=raviraj-dhadhal&theme=radical&no-frame=true&no-bg=false&row=2&column=3&title=Stars,Commits,Repositories,Issues,PullRequest,Followers" alt="Trophies" width="59%"/>
 
 </div>
@@ -147,7 +136,6 @@
 
 <br/>
 
-<!-- Tech Stack with Icons -->
 <div align="center">
   
   ## 🛠️ TECH ARSENAL
@@ -164,22 +152,17 @@
 
 <br/>
 
-<!-- Featured Repositories -->
 <div align="center">
   
   ## 🚀 FEATURED PROJECTS
   
   <br/>
   
-<a href="https://github.com/Raviraj-Dhadhal/skilly">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviraj-dhadhal&repo=skilly&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" alt="Skilly" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviraj-dhadhal&repo=skilly&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviraj-dhadhal&repo=cs50python&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
 
-[![CS50 Python](https://github-readme-stats.vercel.app/api/pin/?username=raviraj-dhadhal&repo=cs50python&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF)](https://github.com/Raviraj-Dhadhal/cs50python)
-
-[![Absent Track](https://github-readme-stats.vercel.app/api/pin/?username=raviraj-dhadhal&repo=absent-track&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF)](https://github.com/Raviraj-Dhadhal/absent-track)
-
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviraj-dhadhal&repo=absent-track&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
 
 </div>
 
@@ -189,7 +172,6 @@
 
 <br/>
 
-<!-- Quote and Metrics -->
 <div align="center">
   
   ## 💭 THOUGHT OF THE DAY
@@ -220,14 +202,13 @@
 
 <br/>
 
-<!-- Snake Animation -->
 <div align="center">
   
   ## 🐍 CONTRIBUTION SNAKE
   
   <br/>
   
-[![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/raviraj-dhadhal/raviraj-dhadhal/output/github-contribution-grid-snake-dark.svg)](https://github.com/raviraj-dhadhal)
+  <img src="https://raw.githubusercontent.com/raviraj-dhadhal/raviraj-dhadhal/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 </div>
 
@@ -237,7 +218,6 @@
 
 <br/>
 
-<!-- Fun Section -->
 <div align="center">
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -245,33 +225,23 @@
   <br/><br/>
   
   ### ⚡ FUN FACTS ABOUT ME
-```javascript
-  const raviraj = {
-      code: "☕ Coffee + 💻 Keyboard = 🚀 Production",
-      debuggingStyle: "console.log() everywhere",
-      motto: "First, solve the problem. Then, write the code.",
-      superPower: "Turning bugs into features",
-      currentlyLearning: "Everything under the sun 🌞",
-      availableFor: "Freelance | Collaborations | Open Source"
-  };
-```
-  
-  <br/>
-  
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
+const raviraj = {
+    code: "☕ Coffee + 💻 Keyboard = 🚀 Production",
+    debuggingStyle: "console.log() everywhere",
+    motto: "First, solve the problem. Then, write the code.",
+    superPower: "Turning bugs into features",
+    currentlyLearning: "Everything under the sun 🌞",
+    availableFor: "Freelance | Collaborations | Open Source"
+};
+
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
 
 </div>
 
-<br/>
-<br/>
-
-<!-- Footer -->
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
-  
-  <br/>
-  
-  **Made with ❤️ by Raviraj Dhadhal**
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+
+Made with ❤️ by Raviraj Dhadhal
+
 </div>
