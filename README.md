@@ -67,7 +67,7 @@
         <sub>Let's network professionally</sub>
       </td>
       <td align="center" width="250">
-        <a href="https://instagram.com/raviraj_dhadhal" target="_blank">
+        <a href="https://instagram.com/therandomdevil" target="_blank">
           <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" />
           <br/><br/>
           <b style="font-size: 18px;">Instagram</b>
@@ -80,7 +80,7 @@
     </tr>
     <tr>
       <td align="center" width="250">
-        <a href="mailto:ravirajdhadhal@gmail.com" target="_blank">
+        <a href="mailto:raviirajdhadhall@gmail.com" target="_blank">
           <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100" />
           <br/><br/>
           <b style="font-size: 18px;">Email</b>
@@ -91,7 +91,7 @@
         <sub>Drop me a message</sub>
       </td>
       <td align="center" width="250">
-        <a href="https://leetcode.com/raviraj_dhadhal" target="_blank">
+        <a href="https://leetcode.com/" target="_blank">
           <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
           <br/><br/>
           <b style="font-size: 18px;">LeetCode</b>
