@@ -149,10 +149,11 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=raviraj-dhadhal&repo=skilly&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=raviraj-dhadhal&repo=cs50python&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=raviraj-dhadhal&repo=absent-track&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=raviraj-dhadhal&repo=skilly&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
 
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=raviraj-dhadhal&repo=cs50python&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=raviraj-dhadhal&repo=absent-track&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
 </div>
 
 <br/>
