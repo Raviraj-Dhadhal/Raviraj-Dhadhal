@@ -108,8 +108,7 @@
 <br/>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=raviraj-dhadhal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raviraj-dhadhal&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4" alt="GitHub Streak" />
-
+<img src="https://streak-stats-eight.vercel.app/?user=raviraj-dhadhal&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4" alt="GitHub Streak" />
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raviraj-dhadhal&custom_title=Contribution%20Graph&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="98%"/>
