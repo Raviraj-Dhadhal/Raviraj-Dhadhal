@@ -81,7 +81,7 @@
 </td>
 <td align="center" width="250">
 <a href="https://leetcode.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=leetcode" width="100" />
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="100" />
 <br/><br/>
 <b style="font-size: 18px;">LeetCode</b>
 <br/><br/>
@@ -116,7 +116,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviraj-dhadhal&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raviraj-dhadhal&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" />
 <img src="https://github-profile-trophy.vercel.app/?username=raviraj-dhadhal&theme=radical&no-frame=true&no-bg=false&row=2&column=3" alt="Trophies" width="59%"/>
 
 </div>
